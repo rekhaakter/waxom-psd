@@ -1,0 +1,548 @@
+
+@media (max-width:575.98px){
+    .navbar-brand img{
+        width: 70%;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    } 
+    
+/*========= Navber part Start ============*/   
+.navbar-nav{
+    background: coral;
+  }
+/*========= Navber part End ============*/    
+
+/*=========Banner part Start ============*/
+#banner .overlay{
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+.text-center h2{
+    font-size: 15px;
+}
+.text-center h1{
+    font-size: 22px;
+}
+
+.text-center p{
+    font-size: 14px;
+    margin-bottom: 1px;
+    line-height: 20px;
+}
+
+.text-center a{
+    font-size: 10px;
+    font-weight: 500;
+    padding: 5px 15px 5px;
+    letter-spacing: 1px;
+}
+/*=========Banner part End ===============*/
+/*=========Banner part Start ============*/
+
+/*========= Service partStart===============*/
+#service{
+   padding: 10px;
+}
+.service_item{
+  padding: 10px;
+}
+.service_item h2 {
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 5px;
+}
+.service_item p {
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 20px;
+    padding-bottom: 15px;
+}
+/*========= Service part End ===============*/
+
+/*========= Slider part Start ============*/
+#slider{
+    padding: 20px;
+}
+.slider_heading h3 {
+    font-size: 16px;
+    font-weight: 300;   
+}
+.slider_heading p {
+    line-height: 20px;
+    font-size: 13px;
+    margin-bottom: 1px;
+    padding: 5px 12px;
+}
+/*========= Slider part End ===============*/
+
+/*========= Wordpress part Start ============*/
+
+#wordpress {
+    padding: 10px 0;
+}
+.word_text h2 {
+    font-size: 15px;
+    font-weight: 300;
+}
+.word_text p {
+    font-size: 14px;
+    font-weight: 300;
+}
+.word_btn a {
+    font-size: 10px;
+    font-weight: 500;
+    padding: 5px 15px 5px;
+    letter-spacing: 1px;
+  }
+/*========= Wordpress part End ===============*/
+
+/*========= Project part Start ============*/
+#project {
+    padding-top: 10px;
+}
+.project_heading h3 {
+    font-size: 18px;
+    font-weight: 400;
+}
+.project_heading p {
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 20px;
+    padding: 5px 10px;
+}
+.project_btn {
+    padding-bottom: 10px;
+}
+.project_btn .btn_type button {
+    padding: 10px 10px;
+    font-size: 12px;
+    font-style: 300;
+    margin-top: 10px;
+}
+/*========= Project part End ===============*/
+
+/*========= Load part Start ============*/
+#load {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.load_text{
+    text-align: center;
+}
+.load_text a {
+    font-size: 10px;
+    font-weight: 500;
+    padding: 5px 15px 5px;
+    letter-spacing: 1px;
+}
+/*========= Load part End ===============*/
+
+/*========= Video part Start ============*/
+#video .overlay {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.video_text h3 {
+    font-size: 18px;
+    font-weight: 300;
+    padding-top: 20px;
+}
+.video_text p {
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 10px 19px;
+}
+/*========= Video part End ===============*/
+
+
+/*========= Device  part Start ============*/
+#device {
+    padding-top: 15px;
+}
+
+.device_text h2 {
+    font-size: 20px;
+    font-weight: 300;
+}
+.device_text p {
+    line-height: 20px;
+    font-size: 14spx;
+    font-weight: 300;
+    padding: 10px 10px;
+}
+.device_text ul {
+    padding-left: 10px;
+  }
+.device_text ul li {
+    font-size: 10;
+    font-weight: 300;
+    line-height: 22px;
+    margin-bottom: 10px;
+    display: flex;
+  }
+/*========= Device part End ===============*/
+
+/*========= Counter part Start ============*/
+#counter {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.count_item{
+    margin-top: 10px;
+}
+.count_item h3 {
+    font-size: 30px;
+    font-weight: 300;
+}
+.count_item p {
+    padding-bottom: 15px;
+}
+/*========= Counter part End ===============*/
+
+/*========= Recent part Start ============*/
+
+#recent {
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+.recent-text p {
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 10px 10px;
+}
+.recent_item .recent_heading {
+    padding: 10px;
+}
+.recent_item .recent_heading p {
+    padding-top: 6px;
+    padding-bottom: 7px;
+  }
+/*========= Recent part End ===============*/
+
+/*========= Waxom part Start ============*/
+#waxom .overlay {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+.waxom_icon {
+    margin-top: 30px;
+ }
+ .waxom_icon img{
+     width: 50%;
+ }
+/*========= Waxom part End ===============*/
+
+/*========= Footer part Start ============*/
+#footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .copy_right p a {
+    font-size: 11px;
+    margin: 0 7px;
+  }
+/*========= Footer part End ===============*/
+}
+
+
+
+
+@media (min-width:576px) and (max-width:767.98px){
+    .navbar-toggler i{
+        color: rgb(245, 10, 245);
+    }  
+
+/*========= Navber part Start ============*/   
+.navbar-nav{
+   background: crimson;
+}
+/*========= Navber part End ============*/    
+
+/*=========Banner part Start ============*/
+#banner .overlay{
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+.text-center h1 {
+    font-size: 40px;
+    font-weight: 600; 
+}
+.text-center h2 {
+    font-size: 26px;
+    font-weight: 400;
+}
+.text-center p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+}
+.text-center a {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 15px 28px 14px;
+}
+/*=========Banner part End ===============*/
+/*=========Banner part Start ============*/
+
+/*========= Video part Start ===============*/
+
+#video .overlay {
+    padding-top: 150px;
+    padding-bottom: 170px;
+  }
+/*========= Video part End ===============*/
+
+/*========= Slider part End ===============*/
+#slider {
+    padding-top: 20px;
+}
+/*========= Slider part End ===============*/
+
+
+/*========= Wordpress part Start ============*/
+#wordpress {
+    padding: 20px 0;
+}
+.word_text h2 {
+    font-size: 22px;
+    font-weight: 300;
+}
+.word_text p {
+    font-size: 15px;
+    font-weight: 300;
+}
+.word_btn a {
+    font-size: 12px;
+    font-weight: 300;
+    padding: 12px 25px 12px;
+}
+
+/*========= Wordpress part End ===============*/
+
+/*========= Load part Start ============*/
+
+#load {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.load_text a {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 15px 35px 14px;
+}
+/*========= Load part End ===============*/
+
+/*========= Device part Start ============*/
+#device {
+    padding-top: 25px;
+}
+/*========= Device part End ===============*/
+
+/*========= part Start ============*/
+#counter {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.count_item h3 {
+    font-size: 40px;
+    font-weight: 300;
+}
+.count_item p {
+    padding-bottom: 15px;
+  }
+.count_item {
+    margin-top: 10px;
+  }
+/*========= part End ===============*/
+
+/*========= waxom part Start ============*/
+#waxom .overlay {
+    padding-top: 50px;
+    padding-bottom: 70px;
+  }
+.waxom_icon {
+    margin-top: 10px;
+}
+.waxom_icon img{
+    width: 50%;
+  }
+/*========= waxom part End ===============*/
+/*========= Footer part Start ============*/
+#footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+/*========= Footer part End ===============*/
+}
+
+@media (min-width:768px) and (max-width:991.98px){
+    .navbar-toggler i{
+        color: rgb(212, 10, 77);
+    }
+
+/*========= Navber part Start ============*/   
+.navbar-nav{
+    background: gray;
+ }
+ /*========= Navber part End ============*/    
+ /*=========Banner part Start ============*/
+#banner .overlay{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.text-center a {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 15px 28px 15px;
+}
+/*=========Banner part End ===============*/
+/*========= Wordpress part Start ============*/
+#wordpress {
+    padding: 30px 0;
+}
+.word_btn a {
+    font-size: 12px;
+    font-weight: 300;
+    padding: 14px 28px 14px;
+}
+/*========= Wordpress part End ===============*/
+
+/*========= Load part Start ============*/
+
+#load {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.load_text a {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 15px 35px 14px;
+}
+/*========= Load part End ===============*/
+
+/*========= Video part Start ===============*/
+
+#video .overlay {
+    padding-top: 150px;
+    padding-bottom: 170px;
+  }
+/*========= Video part End ===============*/
+
+/*========= waxom part Start ============*/
+#waxom .overlay {
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.waxom_icon {
+    margin-top: 10px;
+}
+.waxom_icon img{
+    width: 50%;
+}
+/*========= waxom part End ===============*/
+}  
+
+@media (min-width:992px) and (max-width:1199.98px){
+
+
+/*=========Banner part Start ============*/
+#banner .overlay{
+    padding-top: 220px;
+    padding-bottom: 200px;
+}
+
+.text-center h2 {
+    font-size: 32px;
+    font-weight: 400;
+}
+.text-center h1 {
+    font-size: 52px;
+    font-weight: 800; 
+}
+
+.text-center a {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 15px 28px 14px;
+}
+/*=========Banner part End ===============*/
+/*========= Wordpress part Start ============*/
+#wordpress {
+    padding: 40px 0;
+}
+.word_text h2 {
+	font-size: 24px;
+	font-weight: 300;
+}
+.word_text p {
+	font-size: 16px;
+	font-weight: 300;
+}
+.word_btn a {
+	font-size: 12px;
+	font-weight: 500;
+	padding: 10px 15px 10px;
+}
+/*========= Wordpress part End ===============*/
+
+/*========= Load part Start ============*/
+
+#load {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.load_text a {
+    font-size: 12px;
+	font-weight: 500;
+	padding: 14px 25px 14px;
+}
+/*========= Load part End ===============*/
+/*========= Video part Start ===============*/
+
+#video .overlay {
+    padding-top: 160px;
+    padding-bottom: 180px;
+  }
+/*========= Video part End ===============*/
+
+
+
+}
+
+
+
+
+
+@media (min-width:1200px) and (max-width:1399.98px){
+   
+}
+
+@media (min-width:1400px){
+    
+}
+
+
+
+
+/*========= part Start ============*/
+/*========= part End ===============*/
+
+
+/*========= part Start ============*/
+/*========= part End ===============*/
+
+
+/*========= part Start ============*/
+/*========= part End ===============*/
+
+
+
+/*xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
